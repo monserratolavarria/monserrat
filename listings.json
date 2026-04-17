@@ -1,0 +1,38 @@
+[
+  {
+    "listing": "/spettacoli.html",
+    "items": [
+      "/spettacoli/avenidamerica.html",
+      "/spettacoli/avenidamerica_disco.html",
+      "/spettacoli/canciones.html",
+      "/spettacoli/canti_argilla.html",
+      "/spettacoli/canti_argilla_presentazione/index.html",
+      "/spettacoli/foto_canti_agilla/index.html",
+      "/spettacoli/instrumental.html",
+      "/spettacoli/sciamanici.html"
+    ]
+  },
+  {
+    "listing": "/corsi.html",
+    "items": [
+      "/corsi/cantautori.html",
+      "/corsi/giochi_in_musica.html",
+      "/corsi/primipassi-cantando.html",
+      "/corsi/storie-di-parole.html",
+      "/corsi/tiritinlalla.html",
+      "/corsi/unmondodivoci.html"
+    ]
+  },
+  {
+    "listing": "/diario.html",
+    "items": [
+      "/diario/esempio.html"
+    ]
+  },
+  {
+    "listing": "/muse.html",
+    "items": [
+      "/muse/about.html"
+    ]
+  }
+]
