@@ -2,31 +2,24 @@
   {
     "listing": "/spettacoli.html",
     "items": [
-      "/spettacoli/sciamanici.html",
-      "/spettacoli/foto_canti_agilla/index.html",
       "/spettacoli/avenidamerica.html",
       "/spettacoli/avenidamerica_disco.html",
-      "/spettacoli/canti_argilla.html",
-      "/spettacoli/2017-11-15-ilbaffodellagioconda.html",
       "/spettacoli/canciones.html",
+      "/spettacoli/canti_argilla.html",
       "/spettacoli/canti_argilla_presentazione/index.html",
-      "/spettacoli/instrumental.html"
-    ]
-  },
-  {
-    "listing": "/muse.html",
-    "items": [
-      "/muse/about.html"
+      "/spettacoli/foto_canti_agilla/index.html",
+      "/spettacoli/instrumental.html",
+      "/spettacoli/sciamanici.html"
     ]
   },
   {
     "listing": "/corsi.html",
     "items": [
-      "/corsi/storie-di-parole.html",
       "/corsi/cantautori.html",
-      "/corsi/tiritinlalla.html",
       "/corsi/giochi_in_musica.html",
       "/corsi/primipassi-cantando.html",
+      "/corsi/storie-di-parole.html",
+      "/corsi/tiritinlalla.html",
       "/corsi/unmondodivoci.html"
     ]
   },
@@ -34,6 +27,12 @@
     "listing": "/diario.html",
     "items": [
       "/diario/esempio.html"
+    ]
+  },
+  {
+    "listing": "/muse.html",
+    "items": [
+      "/muse/about.html"
     ]
   }
 ]
